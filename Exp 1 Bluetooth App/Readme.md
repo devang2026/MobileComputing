@@ -17,4 +17,4 @@ connectivity. It demonstrates device discovery, pairing, and data transmission.
 Successful transfer of files between two Bluetooth-enabled devices.
 
 ## Result
-Thus, the
+Thus, the Bluetooth File Transfer application was developed and tested successfully.
